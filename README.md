@@ -36,10 +36,11 @@ Wait for the installation process to complete.
 Once installed, tap Open to launch the Bookifai app directly from the installation screen.
 Alternatively, you can find the Bookifai app icon on your home screen or in the app drawer.
 6. Grant Necessary Permissions
-Upon first launch, the app may request certain permissions (e.g., access to storage, camera, etc.). Make sure to grant these permissions to ensure the app functions correctly.
+This app only require storage permition for now, grant it
+7. To use a book, please contact us privately at rabeeqiblawi@gmail.com. Send us the book in EPUB format, and we will provide it to you in a suitable format. Please note that you are responsible for ensuring that the book you provide is sourced appropriately and complies with all relevant copyright laws. The limit for testing is two books per user
 
 ### Note
-If you have any concerns about the developer or the APK's source, it is recommended to use an Android emulator for testing. Emulators allow you to test apps in a controlled environment without risking your personal device.
+If you have any concerns about us or the APK's source, we recommend to use an Android emulator for testing. Emulators allow you to test apps in a controlled environment without risking your personal device.
 
 ### Troubleshooting
 Installation Blocked: If the installation is blocked, ensure that you've enabled installation from unknown sources.
